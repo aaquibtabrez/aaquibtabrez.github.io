@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aaquibtabrez.github.io/aaquibtabrez.github.io/sitemap.xml
+Sitemap: https://aaquibtabrez.github.io/sitemap.xml
