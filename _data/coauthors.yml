@@ -32,3 +32,19 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+#"Luebbers":
+#  - firstname: ["Matthew", "Matthew B"]
+#    url: https://m-luebbers.github.io/
+#
+#"Hayes":
+#  - firstname: ["Bradley", "Brad"]
+#    url: http://www.bradhayes.info/
+#
+#"Agrawal":
+#  - firstname: ["Shivendra"]
+#    url: https://shivendraagrawal.github.io/
+#
+#"Mueller":
+#  - firstname: ["Carl", "Carl L."]
+#    url: https://www.carl-mueller.com/

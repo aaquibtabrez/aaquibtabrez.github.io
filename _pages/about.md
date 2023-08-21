@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -13,14 +13,19 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Add details
+I am a Ph.D. student at the University of Colorado Boulder (CU) in the Department of Computer Science, where I am advised by [Brad Hayes](http://www.bradhayes.info/) in the [Collaborative AI and Robotics (CAIRO) Lab](http://www.cairo-lab.com/). 
 
-**Research Summary:**
+I previously received a B.Tech. in Mechanical Engineering from NITK Surathkal (India) in 2014 and a Master's in Mechanical Engineering from CU, specializing in Controls and Robotics, in 2019.
 
-**Other Interests:** 
+
+I work at the intersection of explainability and human-robot interaction. In my research, I aim to leverage and enhance human-machine communication to achieve value alignment and foster appropriate trust within human-robot teams. My broader interests encompass Explainable AI, Reinforcement Learning, Multimodal Human-Machine Communication, and Human-AI Interaction.
+
+[//]: # (**Research Summary:**)
+
+**Other Interests:** I enjoy reading philosophy and literature. Some of my favorite topics are: existentialism, stoicism, sufism, and taoism. I also love spending time on poetry, some of my favorite poets include Emily Dickinson and Rumi. I also enjoy music and dancing, especially swing dancing. My primary outdoor activities are running and hiking. Some of my favorite hikes include: Quandary Peak in winter, the Seven Sisters in England, and both the Old Man of Storr Walk and The Quiraing in Scotland.
