@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-08-28 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Co-organized a workshop on ["Human-Robot Interaction for Explainability in Robotics"](https://sites.google.com/view/x-hri/home) at [International Conference on Robot and Human Interactive Communication (RO-MAN)](https://ro-man2023.org/program/workshopTutorial), 2023.
+

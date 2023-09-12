@@ -107,7 +107,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  The best way to get in touch with me is through email.
+  Best way to reach me is my email: mohd.tabrez@colorado.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -180,7 +180,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
