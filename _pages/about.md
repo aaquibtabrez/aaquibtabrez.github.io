@@ -28,4 +28,4 @@ I work at the intersection of explainability and human-robot interaction. In my 
 
 [//]: # (**Research Summary:**)
 
-**Other Interests:** I enjoy reading philosophy and literature. Some of my favorite topics are: existentialism, stoicism, sufism, and taoism. I also love spending time on poetry, some of my favorite poets include Emily Dickinson and Rumi. I also enjoy music and dancing, especially swing dancing. My primary outdoor activities are running and hiking. Some of my favorite hikes include: Quandary Peak in winter, the Seven Sisters in England, and both the Old Man of Storr Walk and The Quiraing in Scotland.
+**Other Interests:** I enjoy reading philosophy and literature. Some of my favorite topics are: existentialism, stoicism, sufism, and taoism. I also love spending time on poetry, some of my favorite poets include Emily Dickinson and Rumi. I also enjoy music and dancing, especially swing dancing. My primary outdoor activities are running and hiking. Some of my favorite hikes include: Quandary Peak in Colorado, the Seven Sisters in England, and both the Old Man of Storr Walk and The Quiraing in Scotland.
