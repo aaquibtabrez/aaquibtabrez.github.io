@@ -25,7 +25,7 @@ I am a Postdoctoral Associate at Cornell University in the [HRC² Lab](https://h
 
 I have an M.Sc. in Mechanical Engineering (Robotics & Control) from CU Boulder and a B.Tech. in Mechanical Engineering from NITK Surathkal, India.
 
-I design algorithms and communication frameworks that help robots and AI systems explain their goals, model and adapt to human behavior, calibrate trust and reliance, and remain robust under uncertainty. Broadly, my work spans **explainable AI**, **human–machine teaming**, **reinforcement learning**, **multimodal human-AI communication**, and **foundation models**.
+I design algorithms and communication frameworks that help robots and AI systems explain their goals, model and adapt to human behavior, calibrate trust and reliance, and remain robust under uncertainty. Broadly, my work spans **explainable AI**, **human-machine teaming**, **reinforcement learning**, **multimodal human-AI communication**, and **foundation models**.
 
 <!-- I study these questions through interactive simulations and real-world robotics experiments, combining explainable coaching, multimodal decision support, foundation-model red-teaming, and diverse human-behavior modeling. -->
 
