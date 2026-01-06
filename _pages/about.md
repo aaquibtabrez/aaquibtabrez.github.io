@@ -24,14 +24,14 @@ I am a Postdoctoral Associate at **Cornell University** in the [HRC² Lab](https
 My work bridges algorithmic decision-making and human-centered design to build trustworthy autonomous systems. I develop autonomous agents and robots that can *communicate, collaborate, and teach people*, with a focus on fluency, transparency, and appropriate trust. My work has been recognized by Best Paper nominations at HRI and AAMAS, and I have been selected as an [RSS](https://sites.google.com/view/rsspioneers2022/) and [HRI Pioneer](https://hripioneers.org/archives/hri19/).
 
 
-I was a Postdoctoral Scholar at **USC**, advised by [Prof. Stefanos Nikolaidis](https://stefanosnikolaidis.net/). I received my Ph.D. in Computer Science from **CU Boulder**, advised by [Prof. Bradley Hayes](http://www.bradhayes.info/). I have an M.Sc. in Mechanical Engineering (Robotics & Control) from CU Boulder and a B.Tech. in Mechanical Engineering from NITK Surathkal, India.
+I was a Postdoctoral Scholar at **USC**, advised by [Prof. Stefanos Nikolaidis](https://stefanosnikolaidis.net/). I received my Ph.D. in Computer Science from **CU Boulder**, advised by [Prof. Bradley Hayes](http://www.bradhayes.info/). I have an Masters in Mechanical Engineering (Robotics & Control) from CU Boulder and a B.Tech. in Mechanical Engineering from NITK Surathkal, India.
 
 
 <!-- I have also been fortunate to collaborate with [Katia Sycara](https://www.cs.cmu.edu/~sycara/), [Michael Lewis](https://www.sci.pitt.edu/people/michael-lewis), and [Daniel Seita](https://danielseita.github.io/) over time. -->
 
 <!-- I have an M.Sc. in Mechanical Engineering (Robotics & Control) from CU Boulder and a B.Tech. in Mechanical Engineering from NITK Surathkal, India. -->
 
-<hr style="height:3px;border:none;background-color:#1f4fd8; margin:0.5em 0;">
+<!-- <hr style="height:3px;border:none;background-color:#1f4fd8; margin:0.5em 0;"> -->
 
 <small style="display:block; margin-top:0;">
 ✦ 📰 **I am on the Academic Job Market!**
