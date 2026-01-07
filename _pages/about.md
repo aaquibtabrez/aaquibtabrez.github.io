@@ -36,7 +36,7 @@ I was a Postdoctoral Scholar at **USC**, advised by [Prof. Stefanos Nikolaidis](
 <small style="display:block; margin-top:0;">
 ✦ 📰 **I am on the Academic Job Market!**
 <br>
-✦ 🗣️ **Name:** My full name is Mohd Aaquib Tabrez, but I go by Aaquib Tabrez, pronounced *Ah-kib tuh-BRAYZ*.
+✦ 🗣️ **Name:** My full name is Mohd Aaquib Tabrez, but I go by Aaquib Tabrez, pronounced *AH-kihb tuh-BREYZ*.
 </small>
 
 
@@ -44,7 +44,7 @@ I was a Postdoctoral Scholar at **USC**, advised by [Prof. Stefanos Nikolaidis](
 ### Research
 I design algorithms (the “brain”) and interfaces (the communication channel) that enable autonomous agents to collaborate with people as transparent, robust teammates in real-world settings such as homes, factories, and healthcare. My research draws from Human-Robot Interaction, Explainable AI, Reinforcement Learning, and Foundation Models with the following themes:
 <br>
-- **Robotic Coaching and Skill Preservation.**  
+- **Skill Coaching and Reliance.**  
   I develop autonomous agents that act as coaches, helping people learn and perform better in both embodied and non-embodied tasks. I also look into mechanisms to preserve human expertise and prevent the skill degradation that often arises from over-reliance on automation.
 <br>
 - **Joint Adaptation and Robustness.**   
