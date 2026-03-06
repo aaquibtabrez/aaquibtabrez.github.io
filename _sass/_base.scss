@@ -1034,3 +1034,16 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+// News spacing
+.news table th,
+.news table td {
+  white-space: nowrap;
+  padding-top: 0.2rem !important;
+  padding-bottom: 0.2rem !important;
+  vertical-align: top !important;
+}
+
+.news table td {
+  white-space: normal;
+}
