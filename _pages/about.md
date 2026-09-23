@@ -33,12 +33,16 @@ I was a Postdoctoral Scholar at **USC**, advised by [Prof. Stefanos Nikolaidis](
 
 <!-- <hr style="height:3px;border:none;background-color:#1f4fd8; margin:0.5em 0;"> -->
 
-<small style="display:block; margin-top:0;">
+<!-- <small style="display:block; margin-top:0;">
 ✦ 📰 **I am on the Academic Job Market!**
 <br>
 ✦ 🗣️ **Name:** My full name is Mohd Aaquib Tabrez, but I go by Aaquib Tabrez, pronounced *AH-kihb tuh-BREYZ*.
+</small> -->
+<small style="display:block; margin-top:0;">
+✦ I am incoming Assistant Professor at San Diego State University (SDSU), Spring 2027
+<br>
+✦ <strong>Name:</strong> My full name is Mohd Aaquib Tabrez, but I go by Aaquib Tabrez, pronounced <em>AH-kihb tuh-BREYZ</em>.
 </small>
-
 
 ---
 ### Research
